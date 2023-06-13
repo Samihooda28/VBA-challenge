@@ -11,5 +11,5 @@ i have taken the photo of start of excel for each year
 
 than i took photo where the for loop is ending for tiker,yearly change and percentage change
 
-i have also used the columnwidth funstion for some cells so that data fits alright and we can see the text clearly.
+i have also used the columnwidth function for some cells so that data fits alright and we can see the text clearly.
 
